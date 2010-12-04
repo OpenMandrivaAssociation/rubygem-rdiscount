@@ -13,6 +13,7 @@ Requires:   rubygems
 BuildRequires: rubygems
 BuildRequires: ruby-devel
 Provides:   rubygem(%{oname}) = %{version}
+Conflicts:  ruby-rdiscount
 
 %description
 Fast Implementation of Gruber's Markdown in C
