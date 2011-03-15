@@ -2,7 +2,7 @@
 
 Summary:    Fast Implementation of Gruber's Markdown in C
 Name:       rubygem-%{oname}
-Version:    1.6.5
+Version:    1.6.8
 Release:    %mkrel 1
 Group:      Development/Ruby
 License:    BSD
