@@ -58,3 +58,16 @@ rm -rf %{buildroot}
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/test
 %{ruby_gemdir}/gems/%{rbname}-%{version}/test/*.rb
 %{ruby_gemdir}/gems/%{rbname}-%{version}/test/*.txt
+
+
+%changelog
+* Tue Mar 15 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.6.8-1
++ Revision: 645129
+- regenerate spec with gem2rpm5
+- new release: 1.6.8
+
+* Sat Dec 04 2010 Rémy Clouard <shikamaru@mandriva.org> 1.6.5-1mdv2011.0
++ Revision: 609256
+- add conflicts
+- import rubygem-rdiscount
+
