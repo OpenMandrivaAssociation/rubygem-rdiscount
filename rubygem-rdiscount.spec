@@ -5,7 +5,7 @@ Release:	2
 Group:		Development/Ruby
 License:	BSD
 URL:		http://github.com/davidfstr/rdiscount
-Source0:	http://rubygems.org/gems/%{gem_name}-%{version}.gem
+Source0:	http://rubygems.org/gems/rdiscount-%{version}.gem
 BuildRequires:	ruby-devel
 
 %description
