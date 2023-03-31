@@ -1,7 +1,7 @@
 Summary:	Fast Implementation of Gruber's Markdown in C
 Name:		rubygem-rdiscount
 Version:	2.2.0.2
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	BSD
 URL:		http://github.com/davidfstr/rdiscount
