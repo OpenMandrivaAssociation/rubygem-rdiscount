@@ -4,7 +4,7 @@ Version:	2.2.0.2
 Release:	3
 Group:		Development/Ruby
 License:	BSD
-URL:		http://github.com/davidfstr/rdiscount
+URL:		https://github.com/davidfstr/rdiscount
 Source0:	http://rubygems.org/gems/rdiscount-%{version}.gem
 BuildRequires:	ruby-devel
 
